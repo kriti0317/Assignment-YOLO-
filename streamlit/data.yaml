@@ -1,0 +1,10 @@
+# path: C:/Users/Kriti/OneDrive/Desktop/Assigment of AI/datasets
+train: /content/drive/MyDrive/datasets/images/train
+val: /content/drive/MyDrive/datasets/images/validation
+
+nc: 3  # total number of classes
+
+names:
+  0: text
+  1: figure
+  2: table
